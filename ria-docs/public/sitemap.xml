@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/ta/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/ta/</loc>
   </url><url>
-    <loc>//localhost:1313/ta/prerequisites/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/ta/prerequisites/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/</loc>
   </url><url>
-    <loc>//localhost:1313/dih/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/dih/</loc>
   </url><url>
-    <loc>//localhost:1313/dih/installation/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/dih/installation/</loc>
   </url><url>
-    <loc>//localhost:1313/dih/prerequisites/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/dih/prerequisites/</loc>
   </url><url>
-    <loc>//localhost:1313/dih/user-guide/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/dih/user-guide/</loc>
   </url><url>
-    <loc>//localhost:1313/reporting-lite/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/reporting-lite/</loc>
   </url><url>
-    <loc>//localhost:1313/reporting-lite/installation/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/reporting-lite/installation/</loc>
   </url><url>
-    <loc>//localhost:1313/reporting-lite/prerequisites/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/reporting-lite/prerequisites/</loc>
   </url><url>
-    <loc>//localhost:1313/reporting-lite/user-guide/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/reporting-lite/user-guide/</loc>
   </url><url>
-    <loc>//localhost:1313/ta/installation/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/ta/installation/</loc>
   </url><url>
-    <loc>//localhost:1313/ta/user-guide/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/ta/user-guide/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/series/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/vijaykarchi22/ria-docs/tags/</loc>
   </url>
 </urlset>
