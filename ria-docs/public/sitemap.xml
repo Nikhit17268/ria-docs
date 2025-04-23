@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:1313/ta/</loc>
+  </url><url>
+    <loc>//localhost:1313/ta/prerequisites/</loc>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+  </url><url>
+    <loc>//localhost:1313/dih/</loc>
+  </url><url>
+    <loc>//localhost:1313/dih/installation/</loc>
+  </url><url>
+    <loc>//localhost:1313/dih/prerequisites/</loc>
+  </url><url>
+    <loc>//localhost:1313/dih/user-guide/</loc>
+  </url><url>
+    <loc>//localhost:1313/reporting-lite/</loc>
+  </url><url>
+    <loc>//localhost:1313/reporting-lite/installation/</loc>
+  </url><url>
+    <loc>//localhost:1313/reporting-lite/prerequisites/</loc>
+  </url><url>
+    <loc>//localhost:1313/reporting-lite/user-guide/</loc>
+  </url><url>
+    <loc>//localhost:1313/ta/installation/</loc>
+  </url><url>
+    <loc>//localhost:1313/ta/user-guide/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/series/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+  </url>
+</urlset>

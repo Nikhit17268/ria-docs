@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TA (Test Automation) on RIA-DOCS</title>
+    <link>//localhost:1313/ta/</link>
+    <description>Recent content in TA (Test Automation) on RIA-DOCS</description>
+    <generator>Hugo -- 0.146.6</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/ta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prerequisites</title>
+      <link>//localhost:1313/ta/prerequisites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/ta/prerequisites/</guid>
+      <description>&lt;p&gt;To use TA, ensure you have the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Java 17+&lt;/li&gt;
+&lt;li&gt;PostgreSQL Database&lt;/li&gt;
+&lt;li&gt;Docker (optional for local runs)&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/ta/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/ta/installation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/ta/user-guide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/ta/user-guide/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
