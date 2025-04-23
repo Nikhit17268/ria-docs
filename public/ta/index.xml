@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TA (Test Automation) on RIA-DOCS</title>
-    <link>https://github.com/vijaykarchi22/ria-docs/ta/</link>
+    <link>https://vijaykarchi22.github.io/ria-docs/ta/</link>
     <description>Recent content in TA (Test Automation) on RIA-DOCS</description>
     <generator>Hugo -- 0.146.6</generator>
     <language>en</language>
-    <atom:link href="https://github.com/vijaykarchi22/ria-docs/ta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vijaykarchi22.github.io/ria-docs/ta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prerequisites</title>
-      <link>https://github.com/vijaykarchi22/ria-docs/ta/prerequisites/</link>
+      <link>https://vijaykarchi22.github.io/ria-docs/ta/prerequisites/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/vijaykarchi22/ria-docs/ta/prerequisites/</guid>
+      <guid>https://vijaykarchi22.github.io/ria-docs/ta/prerequisites/</guid>
       <description>&lt;p&gt;To use TA, ensure you have the following:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Java 17+&lt;/li&gt;
@@ -21,16 +21,16 @@
     </item>
     <item>
       <title></title>
-      <link>https://github.com/vijaykarchi22/ria-docs/ta/installation/</link>
+      <link>https://vijaykarchi22.github.io/ria-docs/ta/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/vijaykarchi22/ria-docs/ta/installation/</guid>
+      <guid>https://vijaykarchi22.github.io/ria-docs/ta/installation/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://github.com/vijaykarchi22/ria-docs/ta/user-guide/</link>
+      <link>https://vijaykarchi22.github.io/ria-docs/ta/user-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://github.com/vijaykarchi22/ria-docs/ta/user-guide/</guid>
+      <guid>https://vijaykarchi22.github.io/ria-docs/ta/user-guide/</guid>
       <description></description>
     </item>
   </channel>
