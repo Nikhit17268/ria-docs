@@ -1,0 +1,39 @@
+baseURL: https://github.com/vijaykarchi22/ria-docs
+languageCode: en-us
+title: RIA-DOCS
+theme: PaperMod
+
+
+params:
+  profileMode:
+    enabled: true
+    title: "RIA-DOCS" # optional default will be site title
+    subtitle: "Bible of all the product documentation"
+    imageUrl: "https://riaadvisory.com/wp-content/uploads/ria-advisory-logo.svg" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - identifier: ta
+          name: TA
+          url: /ta/
+          weight: 1
+        - identifier: dih
+          name: DIH
+          url: /dih/
+          weight: 2
+        - identifier: reporting-lite
+          name: Reporting Lite
+          url: /reporting-lite/
+          weight: 3
+       
