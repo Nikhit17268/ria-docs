@@ -25,15 +25,11 @@ languages:
     menu:
       main:
         - identifier: ta
-          name: TA
+          name: Test Automation
           url: /ta/
           weight: 1
         - identifier: dih
-          name: DIH
+          name: Data Integration Hub
           url: /dih/
           weight: 2
-        - identifier: reporting-lite
-          name: Reporting Lite
-          url: /reporting-lite/
-          weight: 3
        
